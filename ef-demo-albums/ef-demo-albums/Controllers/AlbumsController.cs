@@ -3,11 +3,13 @@ using Microsoft.EntityFrameworkCore;
 using ef_demo_albums.Data;
 using ef_demo_albums.Dtos;
 using ef_demo_albums.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace MyApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class AlbumsController : ControllerBase
     {
         private readonly AppDbContext _context;

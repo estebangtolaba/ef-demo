@@ -58,3 +58,5 @@ C:\demo\ef-demo\ef-demo-albums\ef-demo-albums\obj\Debug\net6.0\refint\ef-demo-al
 C:\demo\ef-demo\ef-demo-albums\ef-demo-albums\obj\Debug\net6.0\ef-demo-albums.pdb
 C:\demo\ef-demo\ef-demo-albums\ef-demo-albums\obj\Debug\net6.0\ef-demo-albums.genruntimeconfig.cache
 C:\demo\ef-demo\ef-demo-albums\ef-demo-albums\obj\Debug\net6.0\ref\ef-demo-albums.dll
+C:\demo\ef-demo\ef-demo-albums\ef-demo-albums\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\demo\ef-demo\ef-demo-albums\ef-demo-albums\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
